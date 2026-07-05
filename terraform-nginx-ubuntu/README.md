@@ -90,8 +90,14 @@ created — only the EC2 instance and a security group.
 
 _Add screenshots here showing:_
 1. `terraform apply` output with the public IP.
-2. The Nginx welcome page open in a browser at `http://<public_ip>`.
-3. `terraform destroy` completing successfully.
+<img width="1207" height="1030" alt="image" src="https://github.com/user-attachments/assets/a2b16134-117d-40ed-b657-b7dccb5f6167" />
+<img width="972" height="842" alt="image" src="https://github.com/user-attachments/assets/49b40965-d55a-4d94-85ce-3771eaab001c" />
+3. The Nginx welcome page open in a browser at `http://<public_ip>`.
+<img width="1380" height="543" alt="image" src="https://github.com/user-attachments/assets/d631ca50-c53d-481a-a84a-6580f56a29d6" />
+4. `terraform destroy` completing successfully.
+<img width="1262" height="898" alt="image" src="https://github.com/user-attachments/assets/dc58044f-c69c-4707-adfc-124ecdc04f9e" />
+<img width="952" height="911" alt="image" src="https://github.com/user-attachments/assets/32794485-70a4-4f16-b93f-38d1174aeaa5" />
+<img width="973" height="541" alt="image" src="https://github.com/user-attachments/assets/e4b9f60d-691e-4eb6-9540-1bcbf4facec3" />
 
 ## Notes
 
